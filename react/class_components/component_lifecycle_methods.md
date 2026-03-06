@@ -4,7 +4,7 @@ In the previous section, you've learned about a component's lifecycle. In functi
 
 We'll start with a short recap of what a component's lifecycle is. There are three stages to a component's life: mounting, updating, and unmounting. Each of these have a method assigned to them within class components, which is what we are going to cover in this lesson.
 
-### Lesson overview
+### Lesson overviewdddddddddsdfsfrewr
 
 This section contains a general overview of topics that you will learn in this lesson.
 
