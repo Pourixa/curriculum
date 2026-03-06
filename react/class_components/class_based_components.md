@@ -1,17 +1,3 @@
-### Introduction
-
-All the components so far have been functional in style and syntax. This is common now, but you will see a different `class` based syntax too. In this lesson, we explore how a class-based component is written and how concepts like props and state are used in one.
-
-### Lesson overview
-
-This section contains a general overview of topics that you will learn in this lesson.
-
-- Learn the structure of a class component and how they are written.
-- How to use props and state in class components.
-- Highlight the uses of `this` in class components.
-
-### Historical React component patterns
-
 In your previous lessons, you have already been introduced to functional components, and the basic patterns in which components get written nowadays. However, React components did not look this way when React was introduced.
 
 If you look into any older React codebase, you'll notice a lot of classes. These are known as class-based components. Prior to February 2019, functional components were also called state-less, as there was no way to manage state in them. This was changed when hooks were introduced, leading to less verbose and 'neater' components.
